@@ -1,2 +1,2 @@
 # Transportation-Planning
-It is a course project that I implemented an statistical analyzing of a traffic data set
+This project entails conducting exploratory data analysis on an authentic dataset sourced from an online taxi service operating in Iran. The primary objectives include examining demand patterns, studying passenger and driver behaviors, and constructing regression models to forecast trip fares. The project employs various techniques such as data preprocessing, statistical hypothesis testing, and visualization to extract meaningful insights from the dataset of the taxi service.
